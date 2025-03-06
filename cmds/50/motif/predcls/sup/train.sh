@@ -21,3 +21,4 @@ mkdir -p $OUTPATH
 #   SOLVER.MAX_ITER 50000 SOLVER.VAL_PERIOD 2000 SOLVER.CHECKPOINT_PERIOD 2000 \
 #   GLOVE_DIR $EXP/glove \MODEL.PRETRAINED_DETECTOR_CKPT ./maskrcnn_benchmark/pretrained/pretrained_faster_rcnn/model_final.pth \
 #   OUTPUT_DIR $OUTPATH  TEST.METRIC "R"
+ 

@@ -38,3 +38,4 @@ datasets/*
 
 teeeeemmmpp/*
 data_vg/*
+maskrcnn_benchmark/pretrained/*
