@@ -1,3 +1,10 @@
+# Fork of IETrans
+
+This repository refactors the IETrans project for compatibility with modern PyTorch versions.     
+It has been tested with Python 3.11 and Torch 2.5.1.
+
+Original README.md is below.
+
 # Internal and External Data Transfer (IETrans) for Scene Graph Generation
 
 This is the code for **ECCV 2022 (Oral)** paper "[Fine-Grained Scene Graph Generation with Data Transfer](https://arxiv.org/abs/2203.11654)".
